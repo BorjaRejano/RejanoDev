@@ -1,16 +1,26 @@
 body {
-    background-color: #233747;
+    font-family: sans-serif;
+    background-color: #101314e5;
 }
-h1 {
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
     color: white;
 }
 h2 {
-    color:white;
+    color: rgb(0, 183, 255)
 }
 p {
-    color: #ffff80;
-    font-size: 10px;
+    
+    color: white;
+    font-size: 15px;
 }
+
 a{
-    color: orange
+    color: rgb(0, 183, 255);
+}
+
+h3{
+    color:rgb(0, 183, 255);
+    
 }
