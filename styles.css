@@ -4,20 +4,20 @@ body {
 }
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 40px;
+    font-size: 40;
     color: white;
 }
 h2 {
-    color: rgb(0, 183, 255);
+    color: #00b7ff;
 }
 p {
     
     color: white;
-    font-size: 15px;
+    font-size: 15;
 }
 
 a{
-    color: rgb(0, 183, 255);
+    color: #00b7ff;
 }
 
 h3{
