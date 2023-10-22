@@ -1,4 +1,5 @@
 body {
+    padding: 20px;
     font-family: sans-serif;
     background-color: #101314e5;
 }
@@ -9,9 +10,13 @@ h1{
     
 }
 h2 {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #00b7ff;
 }
 h3{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:#00b7ff;
 }
 p {
@@ -20,4 +25,12 @@ p {
 }
 a{
     color: #00b7ff;
+}
+
+.Iconos{
+    text-align: end;
+}
+
+footer{
+    text-align: end;
 }
