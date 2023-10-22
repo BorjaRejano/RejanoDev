@@ -3,24 +3,21 @@ body {
     background-color: #101314e5;
 }
 h1{
+    color: #ffffff;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 40px;
-    color: white;
+    font-size: 40;
+    
 }
 h2 {
     color: #00b7ff;
 }
-p {
-    
-    color: white;
-    font-size: 15;
-}
-
-a{
-    color: #00b7ff;
-}
-
 h3{
     color:#00b7ff;
-    
+}
+p {
+    color: #ffffff;
+    font-size: 15;
+}
+a{
+    color: #00b7ff;
 }
