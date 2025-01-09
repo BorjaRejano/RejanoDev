@@ -1,11 +1,11 @@
 # BORJA REJANO
 
-DESARROLLADOR WEB
+Mi primer proyecto.
 
-Bienvenidos a mi cuenta personal. 
+Como primer proyecto, evidentemente mi web personal que la iré mejorando según vaya aprendiendo.
 
-Soy un apasionado de la tecnología y del desarrollo web. Durante los 2 últimos años, he estado aprendiendo y desarrollando mis habilidades de forma autodidacta, aunque actualmente estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web.
+Iré actualizandola según vaya aprendiendo y la iré mejorando.
 
-Además de mis habilidades técnicas, soy una persona con gran capacidad para la adaptabilidad, capaz de trabajar en equipo con empatía y con facilidad para la toma de decisiones.
+Acepto comentarios para mejorarla.
 
-Mis habilidades y conocimientos serán un activo valioso para cualquier equipo de desarrollo.
+Un saludo.
